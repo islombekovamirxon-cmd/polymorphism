@@ -5,10 +5,15 @@ fun main() {
     /// OverLoading -> bir xil nomli parametrlari xar xil
 
 
-    val calculator = Calculator()
-    println(calculator.add(4, 5))
-    println(calculator.add(4.6, 5.4,8.0))
-    println(calculator.add(4, 5, 6))
-    println(calculator.add(4, 5, 6))
+//    val calculator = Calculator()
+//    println(calculator.add(4, 5))
+//    println(calculator.add(4.6, 5.4))
+//    println(calculator.add(4, 5, 6))
 
+//    val dog = Dog("Bobik")
+//    dog.show("Black")
+//
+//
+//    val cat = Cat("Mosh")
+//    cat.show("Black")
 }
