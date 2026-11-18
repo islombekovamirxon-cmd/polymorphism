@@ -4,7 +4,7 @@ class Calculator {
         return a + b
     }
 
-    fun add(a: Double, b: Double): Double {
+    fun add(a: Double, b: Double, c: Double): Double {
         return a + b
     }
 

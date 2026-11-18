@@ -7,7 +7,8 @@ fun main() {
 
     val calculator = Calculator()
     println(calculator.add(4, 5))
-    println(calculator.add(4.6, 5.4))
+    println(calculator.add(4.6, 5.4,8.0))
+    println(calculator.add(4, 5, 6))
     println(calculator.add(4, 5, 6))
 
 }
